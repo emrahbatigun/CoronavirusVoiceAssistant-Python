@@ -7,9 +7,9 @@ import threading
 import time
 
 
-API_KEY = 'tCY4eW2MEFva'
-PROJECT_TOKEN = 'twjdkFHJy5zg'
-RUN_TOKEN = 'tbrMNqTFeC-O'
+API_KEY = 'your api key'
+PROJECT_TOKEN = 'your project token'
+RUN_TOKEN = 'your run token'
 
 
 
